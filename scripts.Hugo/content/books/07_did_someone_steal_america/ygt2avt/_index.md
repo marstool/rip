@@ -1,5 +1,5 @@
 ---
 weight: 1
 bookCollapseSection: false
-title: "__"
+title: "."
 ---
