@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="hddp://www.w3.org/2005/Atom">
+  <channel>
+    <title>__ on US constitution R.I.P</title>
+    <link>/books/10_california_promoted_homelessness/gupi/</link>
+    <description>Recent content in __ on US constitution R.I.P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/books/10_california_promoted_homelessness/gupi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>/books/10_california_promoted_homelessness/gupi/gupi_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/10_california_promoted_homelessness/gupi/gupi_1/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>/books/10_california_promoted_homelessness/gupi/gupi_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/10_california_promoted_homelessness/gupi/gupi_2/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
