@@ -60,8 +60,10 @@ enableGitInfo = true
   weight = 20
 
 [[menu.after]]
-  name = "rip.jjj123.com"
-  url = "https://rip.jjj123.com/"
+#  name = "rip.jjj123.com"
+#  url = "https://rip.jjj123.com/"
+  name = "isaycakissmyass.com"
+  url = "https://isaycakissmyass.com/"
   weight = 22
 
 [params]
