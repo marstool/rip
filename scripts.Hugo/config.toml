@@ -21,21 +21,21 @@ enableGitInfo = true
 # There are different options to translate files
 # See hddps://gohugo.io/content-management/multilingual/#translation-by-filename
 # And hddps://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content'
-  weight = 1
-
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
-
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
-  weight = 3
+###   [languages]
+###   [languages.en]
+###     languageName = 'English'
+###     contentDir = 'content'
+###     weight = 1
+###   
+###   [languages.ru]
+###     languageName = 'Russian'
+###     contentDir = 'content.ru'
+###     weight = 2
+###   
+###   [languages.zh]
+###     languageName = 'Chinese'
+###     contentDir = 'content.zh'
+###     weight = 3
 
 [menu]
 # [[menu.before]]
@@ -69,12 +69,14 @@ enableGitInfo = true
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  #BookTheme = 'light'
+  BookTheme = 'dark'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC = true
+   BookToC = true
+#  BookToC = false
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
@@ -93,10 +95,15 @@ enableGitInfo = true
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = 'hddps://github.com/alex-shpak/hugo-book'
 
+  donate = true
+  paypal = 'https://www.paypal.com'
+  gofundme = 'https://www.gofundme.com/'
+
+
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/master/exampleSite'
+#  BookEditPath = 'edit/master/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
@@ -106,7 +113,8 @@ enableGitInfo = true
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch = true
+#  BookSearch = true
+  BookSearch = false
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
