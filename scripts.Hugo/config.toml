@@ -97,7 +97,8 @@ enableGitInfo = true
 
   donate = true
 #  paypal = 'https://paypal.me/omcRonRussell'
-  paypal = 'https://paypal.me/omcRonRussell?locale.x=en_US'
+#  paypal = 'https://paypal.me/omcRonRussell?locale.x=en_US'
+  paypal = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
   gofundme = 'https://www.gofundme.com/'
 
 
