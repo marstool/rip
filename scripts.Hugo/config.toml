@@ -101,8 +101,11 @@ enableGitInfo = true
 #  orgorg = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
 #  orgorg_img = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
   date_img = 'omc01.png'
-  paypal = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
+#  paypal = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
+#  paypal_img = 'png/paypal.png'
+  paypal = 'https://www.paypal.com/donate?hosted_button_id=VREGF6QZAJYKC'
   paypal_img = 'png/paypal.png'
+  # /paypal_omc_button02.png
   gofundme = 'https://www.gofundme.com/'
   gofundme_img = 'png/gofundme.png'
 
