@@ -96,7 +96,8 @@ enableGitInfo = true
   BookRepo = 'hddps://github.com/alex-shpak/hugo-book'
 
   donate = true
-  paypal = 'https://www.paypal.com'
+#  paypal = 'https://paypal.me/omcRonRussell'
+  paypal = 'https://paypal.me/omcRonRussell?locale.x=en_US'
   gofundme = 'https://www.gofundme.com/'
 
 
