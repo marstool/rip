@@ -98,8 +98,13 @@ enableGitInfo = true
   donate = true
 #  paypal = 'https://paypal.me/omcRonRussell'
 #  paypal = 'https://paypal.me/omcRonRussell?locale.x=en_US'
+#  orgorg = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
+#  orgorg_img = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
+  date_img = 'omc01.png'
   paypal = 'https://www.paypal.com/donate?hosted_button_id=6TRBG23HSEXXU'
+  paypal_img = 'png/paypal.png'
   gofundme = 'https://www.gofundme.com/'
+  gofundme_img = 'png/gofundme.png'
 
 
   # Enable "Edit this page" links for 'doc' page type.
