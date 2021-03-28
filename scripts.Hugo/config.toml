@@ -109,8 +109,10 @@ enableGitInfo = true
   #gofundme = 'https://www.gofundme.com/'
   #gofundme = 'https://www.gofundme.com/f/one-more-chance-ein-205554223?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1'
   #gofundme = 'https://www.gofundme.com/one-more-chance-ein-205554223'
-  gofundme = 'https://gofundme.com/f/one-more-chance-ein-205554223'
-  gofundme_img = 'png/gofundme.png'
+  #gofundme = 'https://gofundme.com/f/one-more-chance-ein-205554223'
+  #gofundme_img = 'png/gofundme.png'
+  gofundme = 'https://www.paypal.com/donate?hosted_button_id=VREGF6QZAJYKC'
+  gofundme_img = 'png/paypal.png'
 
 
   # Enable "Edit this page" links for 'doc' page type.
