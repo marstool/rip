@@ -49,15 +49,15 @@ enableGitInfo = true
 #   url = "hddps://themes.gohugo.io/hugo-book/"
 #   weight = 20
 
-[[menu.after]]
-  name = "donate_paypal"
-  url = "https://www.paypal.com/"
-  weight = 10
-
-[[menu.after]]
-  name = "donate GoFundMe"
-  url = "https://www.gofundme.com/"
-  weight = 20
+## [[menu.after]]
+##   name = "donate_paypal"
+##   url = "https://www.paypal.com/"
+##   weight = 10
+## 
+## [[menu.after]]
+##   name = "donate GoFundMe"
+##   url = "https://www.gofundme.com/"
+##   weight = 20
 
 [[menu.after]]
 #  name = "rip.jjj123.com"
